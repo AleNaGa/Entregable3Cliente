@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+div{
+    background-color: rgb(96, 155, 244);
+    border-color: black;
+    border: 1px;
+    border-style: solid;
+    padding: 6px;
+    width: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items:  center;
+    
+}
